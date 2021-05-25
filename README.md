@@ -1,1 +1,1 @@
-SOME README
+test message
